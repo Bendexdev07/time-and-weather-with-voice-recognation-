@@ -1,7 +1,1 @@
-this is a simple program that help u knew the time and the weather in diffrent cities around the world i use -due to my small knowledge-:
-python
-vosk library for voice recognation 
-open world free api to fetch wather data 
-a simple gui interface
-uising pc mic for input
-
+This is a simple program that helps you know the time and the weather in different cities around the world. I used: Python, Vosk library for voice recognition, open world free API to fetch weather data, a simple GUI interface, and also a PC mic for input
